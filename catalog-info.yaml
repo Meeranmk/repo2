@@ -12,6 +12,9 @@ spec:
   lifecycle: development
   owner: user:vignesh
   system: repo2-portal
+  dependsOn:
+    - resource:default/payments-db
+    - component:default/inventory-service
   providesApis:
     - payments-api
   consumesApis:
