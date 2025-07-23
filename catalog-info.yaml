@@ -17,7 +17,8 @@ spec:
   owner: user:vignesh
   system: Sysco-API-Portal2
   providesApis:
-    - Sysco-API1
+    - Sysco-Backend-API3
+    - Sysco-Backend-API4
   consumesApis:
     - auth-api
     - auth-api2
