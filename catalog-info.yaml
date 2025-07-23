@@ -12,5 +12,7 @@ spec:
   lifecycle: development
   owner: user:vignesh
   system: repo2-portal
-  providesApis:
-    - repo2-api
+   providesApis:
+    - payments-api
+  consumesApis:
+    - auth-api
