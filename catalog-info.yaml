@@ -16,7 +16,7 @@ spec:
     - resource:default/payments-db
     - component:default/inventory-service
   providesApis:
-    - payments-api
+    - Sysco-API1
   consumesApis:
     - auth-api
     - auth-api2
