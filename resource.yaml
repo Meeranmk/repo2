@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: orders-queue
+  name: payments-db
   description: Kafka topic for order events
 spec:
   type: kafka-topic
