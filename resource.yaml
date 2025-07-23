@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: orders-queue
+  description: Kafka topic for order events
+spec:
+  type: kafka-topic
+  owner: team-ops
+  system: commerce-portal
+  dependsOn:
+    - component:default/order-processor
