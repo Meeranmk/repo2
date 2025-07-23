@@ -19,4 +19,5 @@ spec:
     - payments-api
   consumesApis:
     - auth-api
+    - auth-api2
 
