@@ -10,7 +10,7 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: user:shiva
+  owner: user:vignesh
   system: repo2-portal
   providesApis:
     - repo2-api
