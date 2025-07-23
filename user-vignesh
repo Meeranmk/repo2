@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vignesh
+  description: vignesh from Prodapt team
+spec:
+  profile:
+    displayName: vignesh
+    email: vignesh@example.com
+  memberOf:
+    - prodapt
