@@ -11,7 +11,7 @@ spec:
   type: service
   lifecycle: development
   owner: user:vignesh
-  system: repo2-portal
+  system: Sysco-API-Portal2
   dependsOn:
     - resource:default/payments-db
     - component:default/inventory-service
