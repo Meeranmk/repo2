@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: inventory-service
+  description: The inventory service for our platform
+spec:
+  type: service
+  lifecycle: production
+  owner: team-ops
+  system: commerce-portal
