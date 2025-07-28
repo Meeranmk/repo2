@@ -8,7 +8,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     jenkins.io/job-full-name: "teamA/artistLookup-build"
-    jenkins.io/github.com/project-slug: pep8speaks-org/pep8speaks
+    jenkins.io/github-folder: pep8speaks-org/pep8speaks
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/accd1c13-63a5-11f0-b32a-4a480b1bb425-0b668ff98e1318bce14e5de894a27ce7
     scorecard/jsonDataUrl: "https://mocki.io/v1/d4867d8b-b5d5-4a48-a4ab-79131b5809b8"
 spec:
