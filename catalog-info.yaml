@@ -14,7 +14,7 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: user:vignesh
+  owner: prodapt
   system: Sysco-API-Portal2
   dependsOn:
     - resource:default/payments-db
