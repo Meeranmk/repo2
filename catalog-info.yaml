@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Sysco-Sample-API-Repo2
-  description: >
+  description: 
     The Sysco-Sample-API-Repo is designed to provide sample API
     specifications aligned with the Sysco API guidelines.
   annotations:
