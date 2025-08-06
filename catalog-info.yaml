@@ -17,6 +17,7 @@ metadata:
     scorecard/jsonDataUrl: "https://mocki.io/v1/d4867d8b-b5d5-4a48-a4ab-79131b5809b8"
     jira.com/project-key: LEARNJIRA
     jira.com/incoming-issues-status: "TO DO"
+    sonarqube.org/project-key: Meeranmk_portfolio
     
 spec:
   type: service
