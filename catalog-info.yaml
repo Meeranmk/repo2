@@ -18,7 +18,7 @@ metadata:
     jira.com/project-key: LEARNJIRA
     jira.com/incoming-issues-status: "TO DO"
     sonarqube.org/project-key: Meeranmk_ecommerce
-    confluence/page-id: "884737"
+    
     
 spec:
   type: service
