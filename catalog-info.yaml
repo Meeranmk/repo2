@@ -11,8 +11,6 @@ metadata:
     icon: dashboard
   annotations:
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: "teamA/artistLookup-build"
-    jenkins.io/github-folder: pep8speaks-org/pep8speaks
     datadoghq.com/dashboard-url: https://p.ap2.datadoghq.com/sb/ac3fd2c1-6cfd-11f0-b359-560ce0421b8a-460e7505190dc3092d4cb46184f8183f
     scorecard/jsonDataUrl: "https://mocki.io/v1/d4867d8b-b5d5-4a48-a4ab-79131b5809b8"
     jira.com/project-key: LEARNJIRA
