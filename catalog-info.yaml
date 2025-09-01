@@ -21,6 +21,7 @@ metadata:
     confluence/page-id: "1146881"
     sonarcloud.io/project-key: Meeranmk_ecommerce
     concourse-ci.org/pipeline-name: hello-world
+    jenkins.io/job-full-name: testing/testing-03
     
 spec:
   type: service
