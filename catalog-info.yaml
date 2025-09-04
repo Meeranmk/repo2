@@ -18,7 +18,7 @@ metadata:
     sonarqube.org/project-key: Meeranmk_portfolio
     confluence/page-id: "1146881"
     sonarcloud.io/project-key: Meeranmk_ecommerce
-    github.com/project-slug: Meeranmk_ecommerce
+    github.com/project-slug: Meeranmk/ecommerce
     jenkins.io/job-full-name: testing/testing-03
     concourse-ci.org/pipeline-name: hello-world
     
