@@ -21,6 +21,7 @@ metadata:
     github.com/project-slug: Meeranmk/ecommerce
     jenkins.io/job-full-name: testing/testing-03
     concourse-ci.org/pipeline-name: hello-world
+    syscoscore.io/repository-name: Sysco-Sample-API-Repo2
     
 spec:
   type: service
